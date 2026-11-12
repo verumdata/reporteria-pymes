@@ -1,0 +1,7 @@
+id_documento,tipo,folio,fecha_emision,fecha_vencimiento,cliente,producto,monto_neto,monto_total
+1,FAC,1001,2026-09-03,2026-10-03,Comercial Andes,Servicio mensual,500000,595000
+2,FAC,1002,2026-09-15,2026-10-15,Distribuidora Sur,Servicio mensual,320000,380800
+3,BOL,501,2026-09-20,2026-09-20,Cliente particular,Venta mesón,42017,50000
+4,FAC,1003,2026-10-02,2026-11-01,Comercial Andes,Servicio mensual,500000,595000
+5,NC,77,2026-10-10,2026-10-10,Distribuidora Sur,Servicio mensual,20000,23800
+6,FAC,1004,2026-10-18,2026-11-17,Ferretería Norte,Proyecto,1200000,1428000
